@@ -1,4 +1,4 @@
-# this obviously requires twint and urlextract to be installed
+# this obviously requires twint and urlextract
 
 import os
 import sys
