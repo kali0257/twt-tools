@@ -1,7 +1,6 @@
 # this obviously requires twint and urlextract
 
 import os
-import sys
 from urlextract import URLExtract
 
 extractor = URLExtract()

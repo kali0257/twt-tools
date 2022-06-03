@@ -1,6 +1,3 @@
-
-import os
-import sys
 from urlextract import URLExtract
 
 extractor = URLExtract()
@@ -18,6 +15,5 @@ for line in lines:
 
 
 print("extraction is finished")
-file.close()    
+file.close()
 outputFile.close()
-
